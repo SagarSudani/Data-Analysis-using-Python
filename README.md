@@ -1,23 +1,39 @@
 # Data Analysis Using Python
-🐍 Data Analysis using Python
-🧠 **Objective**
-This project demonstrates end-to-end data analysis using Python on a real-world dataset. It includes data cleaning, exploratory data analysis (EDA), and insight generation using the powerful pandas, matplotlib, and seaborn libraries.
 
-📊 **Project Overview**
-🔹 Coca-Cola Sales Analysis
-Goal: Analyze Coca-Cola's sales performance, product segmentation, and customer behavior trends.
+## 📖 Project Overview
 
-**Dataset**: Contains sales transactions with fields such as product name, units sold, region, revenue, and date.
+This repository demonstrates end-to-end data analysis using Python on real-world datasets. It includes data cleaning, exploratory data analysis (EDA), and insight generation using popular Python data science libraries.
 
-**Key Tasks:**
-Cleaning missing and inconsistent data
-Visualizing sales trends over time
-Identifying top-selling products and best-performing regions
-Segmenting customers based on buying patterns
+---
 
-📎 File: Coca_Cola_Sales_Analysis.ipynb
+## 🧮 Datasets & Projects
 
-🛠️ Tools & Technologies
-Language: Python 3
-Libraries: pandas, numpy, matplotlib, seaborn
-Environment: Google Colab
+- **Coca-Cola Sales Analysis**  
+  Analyze Coca-Cola’s sales performance—how different products perform, how sales trends evolve over time, and what customer or regional patterns exist.
+
+- **Diabetes Risk Prediction**  
+  Explore risk factors, build predictive models, and understand what features are most relevant to predicting diabetes.
+
+- **Sales & Predictive Analysis**  
+  Use historical sales data to both describe past trends and forecast future performance.
+
+
+## 🛠 Tools & Technologies
+
+- **Language:** Python 3  
+- **Libraries:**  
+     • pandas — for data manipulation and cleaning  
+     • numpy — numerical operations  
+     • matplotlib & seaborn — visualizations & plotting  
+     • scikit-learn or other ML tools (for the prediction tasks)  
+
+- **Environment:**  Google Colab
+
+
+## 🔍 Key Tasks
+
+- Data import and cleaning: handling missing or inconsistent values  
+- Exploratory Data Analysis: visualizing trends, seasonality, product/regional/customer segmentation  
+- Feature engineering and data transformation for model building (in prediction projects)  
+- Building and evaluating predictive models (for projects like Diabetes Risk Prediction)  
+- Generating actionable insights from data
